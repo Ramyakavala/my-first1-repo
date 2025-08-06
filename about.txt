@@ -1,0 +1,8 @@
+Name: RamyaKavala
+Course: BSC Computer Science
+GitHub: Version control, collaboration tools, and project management
+This article explains what GitHub is and how it works, covering its
+ key features like version control, collaboration tools, and project
+ management. It walks you through getting started with GitHub, creating
+ and managing repositories, and performing tasks like branching, cloning,
+ and forking.
