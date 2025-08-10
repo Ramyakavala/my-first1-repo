@@ -1,20 +1,18 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-<style>
-.image-border{
-	width:250px;
-	border: 20px solid transparent;
-	background-color: skyblue;
-	border-image: url('file:///C:/Users/Jayanth/OneDrive/Immagini/pexels.jpg') 30 round;
-	padding: 10px;
-	}
-</style>
-<title>Border Image</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Recipe Search App</title>
+  <link rel="stylesheet" href="Style.css">
 </head>
 <body>
-<div class="image-border">Aditya degree college womens.</div>
+  <div class="container">
+    <h1>Recipe Search</h1>
+    <input type="text" id="searchInput" placeholder="Search for a recipe...">
+    <button onclick="searchRecipes()">Search</button>
+    <div id="results"></div>
+  </div>
+  <script src="script.js"></script>
 </body>
-
 </html>
-
